@@ -88,3 +88,4 @@ vercel --prod
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
