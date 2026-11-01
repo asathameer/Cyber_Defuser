@@ -1,0 +1,11 @@
+# Git ignore file for Cyber Defuser
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+.vercel/
+main - Copy*.js
+
+
+.vercel
